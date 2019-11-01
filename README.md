@@ -3,7 +3,7 @@
 --------
 ### - How to Install
 - Click on Downlaod || [Click to Download](https://github.com/MauriceX24/SBRW-Updater/archive/master.zip)
-- Extract the **.zip** file on the Desktop or in a Folder
+- Extract the **.zip** file on the Desktop or in a Folder (**Recommend: Save the Updater in your Gamepath to "Gamelauncher.exe"**)
 - Start the Updater
 --------
 ### - Function
