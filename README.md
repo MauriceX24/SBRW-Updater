@@ -1,5 +1,4 @@
 ![Alt-text](https://madebyme.s-ul.eu/mXsWqHYJ)
-# SBRW-Updater
 ## Updater for SBRW Launcher (v1.1)
 --------
 ### - How to Install
