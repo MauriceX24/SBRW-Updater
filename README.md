@@ -1,5 +1,5 @@
 ![Alt-text](https://madebyme.s-ul.eu/mXsWqHYJ)
-## Updater for SBRW Launcher (v1.1)
+## Updater for SBRW Launcher ![Alt-Text](https://img.shields.io/badge/version-1.1.3-BLUE)
 --------
 ### - How to Install
 - Click on Downlaod || [Click to Download](https://github.com/MauriceX24/SBRW-Updater/archive/master.zip)
