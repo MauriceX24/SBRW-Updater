@@ -1,6 +1,7 @@
 ![Alt-text](https://madebyme.s-ul.eu/mXsWqHYJ)
 ## Updater for SBRW Launcher ![Alt-Text](https://img.shields.io/badge/version-1.3.0-BLUE) 
 ![DiscordX](https://img.shields.io/discord/351756216579522560?color=7289da&label=Join%20Discord&logo=Discord&style=for-the-badge&link=https://discord.io/Nightclub)
+![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m784049279-85ed2ef7aee604c90aa71972?label=Discord-Bot&logo=Discord&style=for-the-badge&link=https://discord.io/Nightclub)
 --------
 ### - How to Install
 - Click on Downlaod || [Click to Download](https://github.com/MauriceX24/SBRW-Updater/archive/master.zip)
